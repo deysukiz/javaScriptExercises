@@ -1,15 +1,3 @@
-// This file contains exercises from the chapter 2 of the Eloquent JavaScript book
-
-console.log('Hello World');
-
-console.log('\nLooping a triangle');
-let count = 0;
-let hash = '';
-while (count < 7) {
-    console.log(hash += '# ');
-    count++;
-}
-
 console.log('\nChessboard');
 
 let size = 8;
